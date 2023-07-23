@@ -9,7 +9,7 @@ PHP CRUD , Shop online with Register and Login System with a  Json database .
 5. Add product
 6. Update product
 7. Delete product
-8. Jason database  store
+8. Jason database
 9. validation
 10. authentication
 11. authorization
